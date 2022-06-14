@@ -1,1 +1,1 @@
-{"message": "thay \u0111\u1ed5i nh\u1eb9 delay get job th\u00e0nh sau khi nh\u1eadn job r\u1ed3i delay v\u00e0 sau \u0111\u00f3 tym.. (c\u1eadp nh\u1eadt soon)", "color": "Fore.YELLOW"}
+{"message": "c381e7762320fbd0b49040eb594170a1", "color": "Fore.YELLOW"}
