@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "username": "Lolmc",
+        "role": "Member",
+        "expire_timestamps": 1659017754.0,
+        "device": [
+            "c8654e19c1c521686753c8235e7276ae"
+        ]
+    }
+]
